@@ -1,5 +1,7 @@
 # Date-Palm Residue Database for Saharan Algeria, 2015-2025 (corrected and documented)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24327791.svg)](https://doi.org/10.5281/zenodo.24327791)
+
 Companion data for the book chapter *AI-Driven Circular Business Models for
 Date Palm Waste Valorization in Algeria's El Oued Region* (in
 *From Linear to Circular Business Models: AI-Driven Sustainable Growth in
@@ -93,7 +95,9 @@ Python 3.8 or later; the database scripts use the standard library only, the Exc
 
 ## How to cite
 
-See `CITATION.cff`. After the Zenodo deposit, add the DOI here.
+Bousbia Laiche, R., & Belmessaoud, R. (2026). *Date-palm residue database for Saharan Algeria, 2015–2025 (corrected and documented)* (Version 1.5.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24327791
+
+DOI for all versions: https://doi.org/10.5281/zenodo.24327790. See also `CITATION.cff`.
 
 ## Licence
 

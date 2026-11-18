@@ -321,4 +321,4 @@ Table: **Table A16** Indicators compiled in November 2026, with verification sta
 
 # Access
 
-Database: Bousbia Laiche, R., & Belmessaoud, R. (2026). *Date-palm residue database for Saharan Algeria, 2015–2025 (corrected and documented)* (Version 1.5.0) [Data set]. Zenodo. [DOI to be inserted after deposit]. Source files, build and validation scripts: GitHub [repository URL to be inserted].
+Database: Bousbia Laiche, R., & Belmessaoud, R. (2026). *Date-palm residue database for Saharan Algeria, 2015–2025 (corrected and documented)* (Version 1.5.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24327791. Source files, build and validation scripts: GitHub, https://github.com/rabia-bousbialaiche-77/datepalm-residues-algeria.
