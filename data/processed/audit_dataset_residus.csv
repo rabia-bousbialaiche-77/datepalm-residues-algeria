@@ -1,0 +1,18 @@
+item,value_in_file,reference_value,ratio_file_to_reference,reference_source,verdict
+National production 2020 (labelled FAO),1192000,1151909,1.03,FAOSTAT,"Series labelled FAO is flat at 1,192,000 t for 2020-2023 and does not match FAOSTAT"
+National production 2022 (labelled FAO),1192000,1242304,0.96,FAOSTAT,Does not match FAOSTAT
+National production 2023 (labelled FAO),1192000,1320000,0.9,"FAO, as charted by Statista",Does not match FAO
+"Exports 2023, tonnes",130000,83000,1.57,"ONS, in TSA (2025)",Overstated
+"Exports 2023, million USD",310,73,4.25,"ONS, in TSA (2025)",Overstated by a factor of about four
+Biskra share of national production (%),60,41.2,1.46,MADRP (2017),Overstated
+Biskra palm stock 2021,5250000,4345045,1.21,"DSA (2021), in Haddou thesis",Overstated
+Ouargla palm stock 2021,3220000,2568511,1.25,"DSA Ouargla (2021), in Haddou thesis",Overstated
+Ouargla palm stock 2025,3350000,1259632,2.66,"DSA Ouargla, Radio Algerie (2026)",Overstated; current boundaries
+El Oued production 2022,60000,120000,0.5,APS (2023),Understated by half
+Ouargla production 2024,260000,90449,2.87,"DSA Ouargla, Radio Algerie (2026)",Overstated
+Biskra production 2023,780000,400000,1.95,"DSA Biskra forecast, 'more than'",Nearly twice an official lower bound; not strictly testable
+Ten-wilaya production 2021,1253400,1188803,1.05,FAOSTAT (national total),Regional sum exceeds the national total
+National palm stock 2020,18000000,18600000,0.97,"MADRP (2017), 'more than'",Consistent in order of magnitude; unverified
+National palm area 2020 (ha),170000,167000,1.02,MADRP (2017),Consistent in order of magnitude; unverified
+Dry fronds 2020: sheet 3 total vs sum of sheet 4,270000,866000,0.31,Internal check,Two sheets of the same file disagree
+Wastewater 2020: stated rate applied to production vs stated quantity,298000,50000,5.96,Internal check,Stated rate (25%) and stated quantity are inconsistent

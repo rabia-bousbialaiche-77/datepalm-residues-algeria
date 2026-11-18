@@ -1,0 +1,32 @@
+# Data still missing
+
+The chapter's quantitative layer rests on official statements and published coefficients. The variables below are needed to replace ranges with measurements, to test the four propositions of the chapter, or to size a pilot. None is available in any published source located by the authors. Priority 1 marks the variables that drive the widest uncertainty (see `el_oued_sensitivity.csv`).
+
+| ID | Variable | Needed in section | Best available now | How to collect | Holder | Unit | Priority |
+|---|---|---|---|---|---|---|---|
+| G01 | Pruning residue per palm in the Souf (kg/palm/year) by variety and age class | 4.6, 4.7 (Table 6, Fig. 2) | Literature range 20-65 kg; no local measurement | Field measurement at annual pruning on 30-60 palms in 3 age classes and 2 varieties; weigh fronds, petioles, fibre; oven moisture | Authors (Faculty of Natural and Life Sciences); grower cooperatives | kg dry matter per palm | 1 |
+| G02 | Palm stock of El Oued within current boundaries: total, productive, by variety and commune | 4.4, 4.6 | Bounded at 1.0-2.0 million from official statements | Official request | DSA El Oued | palms, by commune | 1 |
+| G03 | Date production by season and variety, El Oued current boundaries, 2015-2025 | 4.4 | One season (about 120,000 t, reported May 2023) | Official request | DSA El Oued; Chamber of Agriculture | tonnes per season and variety | 1 |
+| G04 | Share of fruit rejected at sorting and conditioning, by defect class | 4.6, 5.2 | Literature 10-15% (grade losses) and 30% (all losses) | Weighing of reject streams at 3-5 packing units over one season | Packing and conditioning units | % of intake, by class and week | 1 |
+| G05 | Register of packing, conditioning and processing units: number, capacity, location | 4.8 (Table 9), 5 | None | Official request and site visits | DSA; Directorate of Commerce; CNRC register; ANDI | units, tonnes per year | 1 |
+| G06 | Current fate of residues: burnt, fed, sold, left on plot | 4.8, 6 | No local figure | Grower survey (about 150 holdings, stratified by commune and size) | Authors | % of residue by fate | 1 |
+| G07 | Prices of low-grade dates, pits, fronds, compost and concentrate feed | 5.3, 6 | Deglet Nour price range 2016-2017 only | Monthly market survey over one season | Wholesale markets of El Oued; feed traders | DZD per kg | 1 |
+| G08 | Livestock numbers (sheep, goats, camels) and purchased feed use | 4.4, 5.3 | None in database | Official request; breeder survey | DSA El Oued; breeders' associations | head; tonnes of feed per year | 2 |
+| G09 | Area under potato and vegetables, and organic fertiliser use | 4.4, 5.3 | National potato share (about 45%) only | Official request; grower survey | DSA El Oued | hectares; tonnes of manure and compost | 2 |
+| G10 | Composition of El Oued residue classes: moisture, sugars, fibre, protein, contaminants | 4.7 (Table 8) | Measurements on other varieties and regions | Laboratory analysis of graded samples | Authors (Faculty of Natural and Life Sciences) | % dry matter | 2 |
+| G11 | Labelled image set of rejected fruit and residue classes from El Oued | 2.3 (Table 1), 5.2 | None; published sets cover marketable fruit of other varieties | Image capture on sorting lines and at collection points | Packing units; authors | images per class | 2 |
+| G12 | Plot locations, distances and transport cost per tonne-kilometre | 5.2 (routing) | None | GIS layer from agricultural services; survey of transporters | DSA; transporters | coordinates; DZD per t-km | 2 |
+| G13 | Willingness to pay for graded feed and compost | 7.1 (Propositions 1-2) | None | Choice experiment with breeders and vegetable growers | Authors | DZD per tonne premium | 2 |
+| G14 | Digital readiness of growers: smartphone, internet, mobile payment use | 6 | None at local level | Items added to the grower survey | Authors | % of holdings | 3 |
+| G15 | Regulatory texts on compost and feed standards and on open burning | 6 | Not compiled | Documentary search | Journal Officiel; ministries of agriculture and environment | list of texts | 3 |
+| G16 | Eligibility of residue ventures for public support schemes | 6 | Not compiled | Documentary search and interviews | ANADE; agricultural support funds; banks | list of schemes and conditions | 3 |
+| G17 | Date exports by HS 080410: volume, value and partner, 2015-2025, from one consistent source | 4.3 (Table 4) | Three compilations that disagree | Download from UN Comtrade (reporter and mirror data) | UN Comtrade | tonnes; USD | 3 |
+
+## Suggested sequence
+
+1. Official requests to the Directorate of Agricultural Services of El Oued (G02, G03, G05, G08, G09) - one letter, one meeting.
+2. One season of fieldwork (G01, G04, G06, G07, G10, G11), organised around the pruning period and the conditioning season.
+3. Survey instruments for growers and breeders (G06, G13, G14) administered together.
+4. Documentary work (G15, G16, G17) at any time.
+
+Each item, once collected, enters the database as a new table with status `observed_field` and replaces the corresponding range.

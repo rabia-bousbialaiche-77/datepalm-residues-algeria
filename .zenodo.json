@@ -1,0 +1,34 @@
+{
+  "title": "Date-Palm Residue Database for Saharan Algeria, 2015-2025 (corrected and documented)",
+  "upload_type": "dataset",
+  "version": "1.5.0",
+  "publication_date": "2026-11-17",
+  "description": "<p>Traceable, documented tables on date production and date-palm residues in Saharan Algeria, with the wilaya of El Oued as the focus. Every value carries a status flag: official figure, figure from a secondary compiler, literature coefficient, derived scenario, unverified working estimate or projection.</p>\n<p><strong>Contents.</strong> National production 2015-2024 (FAOSTAT, cross-checked with the ONS campaign series); Algeria's share of world production; exports 2023-2025 from three compilers; ministry statistics by wilaya for 2017 and 2020; 39 published statements on production, palm stock and area with source links and boundary notes; World Bank governance indicators (2015-2024) for Algeria, Egypt, Tunisia and Qatar; residue coefficients, measured composition and conversion yields from peer-reviewed studies; reported accuracy of date-grading models; three derived residue scenarios for El Oued (33,800 t, 76,450 t and 166,000 t a year) with a one-at-a-time sensitivity analysis; an audit of the authors' original working files; indicators compiled in November 2026 with their verification status; and an inventory of 17 variables still missing, with holder and collection method.</p>\n<p><strong>Limits.</strong> No residue quantity was measured in the field. The original ten-wilaya working panel fails consistency checks against national statistics and is published only for transparency; it must not be cited as observed data. Figures for 2020 by wilaya refer to boundaries before the 2021 administrative reform.</p>\n<p><strong>Reproducibility.</strong> The archive contains the raw files, the build and validation scripts (Python, standard library) and the data appendix (Online Resource 1) in Word, PDF and Excel.</p>\n<p>Companion data for the book chapter <em>AI-Driven Circular Business Models for Date Palm Waste Valorization in Algeria's El Oued Region</em>, submitted to <em>From Linear to Circular Business Models: AI-Driven Sustainable Growth in Emerging Markets</em> (Palgrave Macmillan).</p>",
+  "creators": [
+    {
+      "name": "Bousbia Laiche, Rabiaa",
+      "affiliation": "University of El Oued, Algeria",
+      "orcid": "0000-0002-0150-4310"
+    },
+    {
+      "name": "Belmessaoud, Rachid",
+      "affiliation": "University of El Oued, Algeria"
+    }
+  ],
+  "keywords": [
+    "date palm",
+    "Phoenix dactylifera",
+    "agricultural residues",
+    "circular economy",
+    "circular business models",
+    "bio-economy",
+    "El Oued",
+    "Algeria",
+    "Sahara",
+    "artificial intelligence"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "notes": "Data and documentation under CC BY 4.0; scripts under MIT. Status flags and corrections log in docs/."
+}

@@ -1,0 +1,4 @@
+parameter,low_value,high_value,total_residues_t_at_low,total_residues_t_at_high,swing_t,central_total_t
+alpha (fruit-linked coefficient),0.1,0.3,70450,94450,24000,76450
+N (productive palms),1090000,2000000,56150,88000,31850,76450
+beta (kg of pruning residue per palm),20,65,51400,126550,75150,76450

@@ -1,0 +1,7 @@
+study,task,images_or_samples,model,reported_performance,source_url
+ElHelew et al. (2024),Accepted versus rejected fruit; three Egyptian varieties,5945,Inception-ResNet-v2,98.99 (accuracy),https://doi.org/10.21608/mjae.2024.286079.1137
+Almutairi et al. (2024),Detection and classification of nine Saudi varieties,1735,YOLOv8,99.1 (precision),https://doi.org/10.1109/access.2024.3433485
+Alhamdan and Howe (2021),"Nine varieties, controlled environment",1658,Convolutional neural network,97 (accuracy),https://doi.org/10.1007/978-3-030-69717-4_16
+Neji et al. (2024),"Variety identification on two public data sets, Saudi Arabia and Turkey",,DenseNet121 + Vision Transformer + XGBoost,"99.93 (Saudi set); 99.65 (Turkish set), accuracy",https://doi.org/10.1016/j.neucom.2024.127976
+Aiadi et al. (2022),"Variety classification; public benchmark of 20 date varieties, Algerian authors",,VGG-F and PCANet features fused by discriminant correlation analysis,benchmark introduced,https://doi.org/10.1109/access.2022.3194550
+Boumaraf et al. (2026),"Eight quality grades, Deglet Nour and Mech-Degla, samples from an industrial sorting facility in Algeria",853,"Multi-view RGB, with and without thermal image and weight",fusion outperforms RGB alone for every architecture,https://doi.org/10.1007/s11694-026-04193-1

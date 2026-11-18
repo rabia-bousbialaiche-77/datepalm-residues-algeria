@@ -1,0 +1,6 @@
+wilaya,indicator,low,high,unit,source,source_url
+Biskra,Deglet Nour yield,80,85,kg/palm,"ITDAS Biskra conjuncture note 2016-2017, as reported by Algerie-Eco",https://algerie-eco.com/?p=23966
+Ouargla,Deglet Nour yield,70,76,kg/palm,"ITDAS Biskra conjuncture note 2016-2017, as reported by Algerie-Eco",https://algerie-eco.com/?p=23966
+El Oued,Deglet Nour yield,60,65,kg/palm,"ITDAS Biskra conjuncture note 2016-2017, as reported by Algerie-Eco",https://algerie-eco.com/?p=23966
+Biskra,"Deglet Nour price on branch, local market",300,450,DZD/kg,"ITDAS Biskra conjuncture note 2016-2017, as reported by Algerie-Eco",https://algerie-eco.com/?p=23966
+El Oued,"Deglet Nour price on branch, local market",130,250,DZD/kg,"ITDAS Biskra conjuncture note 2016-2017, as reported by Algerie-Eco",https://algerie-eco.com/?p=23966

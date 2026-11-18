@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this database, please cite it as below."
+title: "Date-Palm Residue Database for Saharan Algeria, 2015-2025 (corrected and documented)"
+type: dataset
+version: 1.5.0
+date-released: 2026-11-17
+authors:
+  - family-names: "Bousbia Laiche"
+    given-names: "Rabiaa"
+    orcid: "https://orcid.org/0000-0002-0150-4310"
+    affiliation: "University of El Oued, Algeria"
+  - family-names: "Belmessaoud"
+    given-names: "Rachid"
+    affiliation: "University of El Oued, Algeria"
+keywords:
+  - date palm
+  - agricultural residues
+  - circular economy
+  - El Oued
+  - Algeria
+  - bio-economy
+license: CC-BY-4.0
+repository-code: "https://github.com/rabia-bousbialaiche-77/datepalm-residues-algeria"

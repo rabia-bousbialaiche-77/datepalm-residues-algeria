@@ -1,0 +1,13 @@
+pathway,feedstock_stream,feedstock_potential_t_per_year,current_uptake_rate_pct,currently_valorised_t,value_status,note
+Animal feed (ground pits),pits,156000,15,23400,unverified_working_estimate,competes for the same feedstock as the other pathways of this stream; do not sum across pathways
+Activated carbon (carbonised pits),pits,156000,2,3120,unverified_working_estimate,competes for the same feedstock as the other pathways of this stream; do not sum across pathways
+Biofuel (pits),pits,156000,0.5,780,unverified_working_estimate,competes for the same feedstock as the other pathways of this stream; do not sum across pathways
+Cosmetics (pit oil),pits,156000,0.1,156,unverified_working_estimate,competes for the same feedstock as the other pathways of this stream; do not sum across pathways
+Composting (all organic residues),all residues,500000,10,50000,unverified_working_estimate,competes for the same feedstock as the other pathways of this stream; do not sum across pathways
+Biogas / anaerobic digestion,all residues,500000,1,5000,unverified_working_estimate,competes for the same feedstock as the other pathways of this stream; do not sum across pathways
+Handicraft (woven fronds),fronds,282000,20,56400,unverified_working_estimate,competes for the same feedstock as the other pathways of this stream; do not sum across pathways
+Construction (fronds and earth),fronds,282000,1,2820,unverified_working_estimate,competes for the same feedstock as the other pathways of this stream; do not sum across pathways
+Animal feed (molasses),molasses,26000,30,7800,unverified_working_estimate,competes for the same feedstock as the other pathways of this stream; do not sum across pathways
+Ethanol (fermented molasses),molasses,26000,0,0,unverified_working_estimate,competes for the same feedstock as the other pathways of this stream; do not sum across pathways
+Organic fertiliser (compost),all residues,500000,8,40000,unverified_working_estimate,competes for the same feedstock as the other pathways of this stream; do not sum across pathways
+Paper pulp (frond fibres),fronds,282000,0,0,unverified_working_estimate,competes for the same feedstock as the other pathways of this stream; do not sum across pathways

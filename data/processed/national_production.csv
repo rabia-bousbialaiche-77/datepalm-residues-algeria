@@ -1,0 +1,11 @@
+year,production_t,status,source,source_url,ons_campaign_t,ons_source
+2015,990377,observed_official,"FAOSTAT, reproduced by Knoema",https://d3fqfiq2w1ez7u.cloudfront.net/nmx/timeseries/algeria-dates-production,990377,"ONS (2020), Retrospective agriculture 2010-2019, campaign ending in this year"
+2016,1029596,observed_official,"FAOSTAT, reproduced by Knoema",https://d3fqfiq2w1ez7u.cloudfront.net/nmx/timeseries/algeria-dates-production,1029596,"ONS (2020), Retrospective agriculture 2010-2019, campaign ending in this year"
+2017,1058600,observed_official,"FAO-based series, reproduced by Knoema",https://d3fqfiq2w1ez7u.cloudfront.net/nmx/timeseries/algeria-eu-dates-production,1058559,"ONS (2020), Retrospective agriculture 2010-2019, campaign ending in this year"
+2018,1094700,observed_official,"FAOSTAT, reproduced by HelgiLibrary",https://www.helgilibrary.com/charts/which-country-produces-the-most-dates/,1094700,"ONS (2020), Retrospective agriculture 2010-2019, campaign ending in this year"
+2019,1136025,observed_official,"FAOSTAT, reproduced by HelgiLibrary",https://www.helgilibrary.com/charts/which-country-produces-the-most-dates/,1136025,"ONS (2020), Retrospective agriculture 2010-2019, campaign ending in this year"
+2020,1151909,observed_official,"FAOSTAT, reproduced by HelgiLibrary",https://www.helgilibrary.com/charts/which-country-produces-the-most-dates/,,
+2021,1188803,observed_official,"FAOSTAT, reproduced by HelgiLibrary",https://www.helgilibrary.com/charts/which-country-produces-the-most-dates/,,
+2022,1242304,observed_official,"FAOSTAT, reproduced by HelgiLibrary",https://www.helgilibrary.com/charts/which-country-produces-the-most-dates/,,
+2023,1320000,observed_official_rounded,"FAO figure as charted by Statista (1.32 Mt, rounded)",https://statista.com/chart/amp/29563/biggest-producers-of-dates,,
+2024,1337301,observed_secondary,FAO-based figure reported by Selina Wamucii,https://www.selinawamucii.com/fr/connaissances/prix/algerie/dattes/,,

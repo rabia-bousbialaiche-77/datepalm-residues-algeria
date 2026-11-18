@@ -1,0 +1,13 @@
+pathway_fr,residue_fr,potential_t_per_year,current_rate_pct,currently_valorised_t,untapped_t
+Alimentation animale (noyaux broyés),Noyaux,156000,15,23400,132600
+Charbon actif (noyaux carbonisés),Noyaux,156000,2,3120,152880
+Biocarburant (noyaux),Noyaux,156000,0.5,780,155220
+Cosmétiques (huile de noyaux),Noyaux,156000,0.1,156,155844
+Compostage (tous résidus organiques),Tous résidus,500000,10,50000,450000
+Biogaz / Méthanisation (résidus organiques),Tous résidus,500000,1,5000,495000
+Artisanat (palmes tressées),Palmes,282000,20,56400,225600
+Construction (palmes + terre),Palmes,282000,1,2820,279180
+Alimentation animale (mélasse),Mélasse,26000,30,7800,18200
+Éthanol (mélasse fermentée),Mélasse,26000,0,0,26000
+Engrais organique (compost),Tous résidus,500000,8,40000,460000
+Pâte à papier (fibres de palmes),Palmes,282000,0,0,282000

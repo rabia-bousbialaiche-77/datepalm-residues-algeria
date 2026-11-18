@@ -1,0 +1,11 @@
+coefficient_id,description,value,unit,status,source,source_url
+beta_low,Dry frond and leaf residues per palm per year; dry-matter basis,20,kg/palm/year,literature,"Faiad et al. (2022), Sustainability 14(3):1134",https://mdpi.com/2071-1050/14/3/1134
+beta_central,"Palm residues per tree per year (El-Juhany 2001, as cited); moisture basis not stated",35,kg/palm/year,literature_secondary,"Nasser (2014), BioResources 9(3)",https://bioresources.cnr.ncsu.edu/wp-content/uploads/2016/06/BioRes_09_3_4343_Nasser_Eval_Midrib_Date_Palm_5650.pdf
+beta_high,"Biowaste per palm per year from annual cleaning, Adrar (Algeria); as collected; includes palms, petioles, bunches and bunch peduncles",65,kg/palm/year,literature,"Djaafri et al. (2024), Energies 17(11):2520",https://doi.org/10.3390/en17112520
+beta_original,Dry fronds per palm per year used in the original workbook,50,kg/palm/year,unverified_working,Original workbook; no primary source located; inside the 20-65 range of the literature,
+alpha_low,"Low-grade dates and pits as share of production, lower bound",0.1,t/t fruit,literature,"Shi et al. (2023), Applied Sciences 13(22):12315",https://doi.org/10.3390/app132212315
+alpha_central,"Low-grade dates and pits as share of production, upper bound",0.15,t/t fruit,literature,"Shi et al. (2023), Applied Sciences 13(22):12315",https://doi.org/10.3390/app132212315
+alpha_high,"Share of Algerian date production lost during picking, storage and marketing; chain-wide, not only at packing units",0.3,t/t fruit,literature,"Boulal et al. (2016), African Journal of Biotechnology",https://doi.org/10.5897/AJB2016.15368
+pits_original,Pits as share of fruit mass used in the original workbook,0.12,t/t fruit,unverified_working,Original workbook; no primary source located,
+pedicels_original,Pedicels as share of fruit mass used in the original workbook,0.08,t/t fruit,unverified_working,Original workbook; no primary source located,
+culls_original,Sorting rejects as share of fruit mass used in the original workbook,0.05,t/t fruit,unverified_working,Original workbook; no primary source located,

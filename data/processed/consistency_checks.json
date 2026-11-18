@@ -1,0 +1,47 @@
+{
+  "panel_rows": 60,
+  "panel_sum_vs_national": {
+    "2020": {
+      "panel_sum_t": 1253400,
+      "national_t": 1151909,
+      "excess_t": 101491
+    },
+    "2021": {
+      "panel_sum_t": 1253400,
+      "national_t": 1188803,
+      "excess_t": 64597
+    },
+    "2022": {
+      "panel_sum_t": 1325700,
+      "national_t": 1242304,
+      "excess_t": 83396
+    },
+    "2023": {
+      "panel_sum_t": 1432500,
+      "national_t": 1320000,
+      "excess_t": 112500
+    },
+    "2024": {
+      "panel_sum_t": 1432500,
+      "national_t": 1337301,
+      "excess_t": 95199
+    },
+    "2025": {
+      "panel_sum_t": 1541300,
+      "national_t": null,
+      "excess_t": null
+    }
+  },
+  "pathways_naive_total_t": 315715.0,
+  "pathways_distinct_feedstock_t": {
+    "pits": 156000.0,
+    "all residues": 500000.0,
+    "fronds": 282000.0,
+    "molasses": 26000.0
+  },
+  "el_oued_scenarios_total_t": {
+    "low": 33800,
+    "central": 76450,
+    "high": 166000
+  }
+}
