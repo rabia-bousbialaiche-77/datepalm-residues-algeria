@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this database, please cite it as below."
 title: "Date-Palm Residue Database for Saharan Algeria, 2015-2025 (corrected and documented)"
 type: dataset
-version: 1.5.0
-date-released: 2026-11-17
+version: 1.5.1
+date-released: 2026-11-23
 authors:
   - family-names: "Bousbia Laiche"
     given-names: "Rabiaa"
@@ -19,6 +19,6 @@ keywords:
   - El Oued
   - Algeria
   - bio-economy
-doi: "10.5281/zenodo.24327791"
+doi: "10.5281/zenodo.24327790"
 license: CC-BY-4.0
 repository-code: "https://github.com/rabia-bousbialaiche-77/datepalm-residues-algeria"

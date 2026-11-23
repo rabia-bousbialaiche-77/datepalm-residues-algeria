@@ -146,7 +146,7 @@ Rabiaa Bousbia Laiche and Rachid Belmessaoud, University of El Oued, Algeria
 
 # Purpose and contents
 
-This appendix reproduces the tables of the open database that accompanies the chapter (version 1.5.0) and documents how it was assembled. It serves three purposes: to let readers check every figure used in the chapter, to record the audit of the working files from which the project started, and to list the data that the study still needs.
+This appendix reproduces the tables of the open database that accompanies the chapter (version 1.5.1) and documents how it was assembled. It serves three purposes: to let readers check every figure used in the chapter, to record the audit of the working files from which the project started, and to list the data that the study still needs.
 
 Every value in the database carries a status flag. **Official** values come from FAOSTAT, the World Bank or Algerian public bodies, directly or as reported by named outlets. **Literature** values come from peer-reviewed studies. **Derived** values are computed by the build script from inputs stated in the same row. **Unverified** values come from the authors' working files and are not used as evidence.
 
@@ -175,7 +175,7 @@ for tid, title, header, body, note in TABLES:
 """)
 parts.append("""# Access
 
-Database: Bousbia Laiche, R., & Belmessaoud, R. (2026). *Date-palm residue database for Saharan Algeria, 2015–2025 (corrected and documented)* (Version 1.5.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24327791. Source files, build and validation scripts: GitHub, https://github.com/rabia-bousbialaiche-77/datepalm-residues-algeria.
+Database: Bousbia Laiche, R., & Belmessaoud, R. (2026). *Date-palm residue database for Saharan Algeria, 2015–2025 (corrected and documented)* (Version 1.5.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24327790 (DOI for all versions). Source files, build and validation scripts: GitHub, https://github.com/rabia-bousbialaiche-77/datepalm-residues-algeria.
 """)
 (OUT / "appendix.md").write_text("\n".join(parts), encoding="utf-8")
 
@@ -188,7 +188,7 @@ except ImportError:
 wb = Workbook()
 ws = wb.active
 ws.title = "README"
-ws["A1"] = "Online Resource 1 - Data Appendix (database version 1.5.0)"
+ws["A1"] = "Online Resource 1 - Data Appendix (database version 1.5.1)"
 ws["A1"].font = Font(bold=True, size=13)
 ws["A3"] = "Each sheet reproduces one table of the appendix. Status flags and source links are in the CSV files of the database."
 ws["A5"], ws["B5"] = "Sheet", "Content"

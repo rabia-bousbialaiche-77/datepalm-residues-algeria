@@ -74,6 +74,7 @@ See `docs/DATA_GAPS.md`.
 
 ## Version history
 
+- **1.5.1** - No change to the data. Zenodo DOI and GitHub link added to the README, `CITATION.cff` and the appendix; framework figure of the chapter (Fig. 3) added in `figures/` with the script that draws it.
 - **1.5.0** - Corrections after peer review (items 24-27): productive-palm basis for N, El Meghaier statements re-verified, coefficient bases documented, two Algerian grading studies added. Scenarios 33,800 / 76,450 / 166,000 t.
 - **1.4.0** - Central palm stock of El Oued derived from observed data instead of the midpoint of its bounds: 120,000 t divided by the 72.0 kg of dates per productive palm recorded for the former wilaya in 2020 (MADR), grossed up by the 2020 productive share (95.9 %), rounded to 1.74 million. Central scenario 78,900 t (was 70,500 t). Low and high scenarios unchanged; sensitivity recomputed around the new centre.
 - **1.3.0** - Verified MADR 2020 statistics for the five main wilayas and the nation (pre-2021 boundaries); ONS campaign series added as a cross-check on national production; 16 indicators from the November 2026 collection recorded with their verification status (items 16-23). Data gaps G02-G05 updated. Scenarios unchanged.

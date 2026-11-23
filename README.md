@@ -1,6 +1,6 @@
 # Date-Palm Residue Database for Saharan Algeria, 2015-2025 (corrected and documented)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24327791.svg)](https://doi.org/10.5281/zenodo.24327791)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24327790.svg)](https://doi.org/10.5281/zenodo.24327790)
 
 Companion data for the book chapter *AI-Driven Circular Business Models for
 Date Palm Waste Valorization in Algeria's El Oued Region* (in
@@ -47,11 +47,11 @@ and it must not be cited as observed data.
 | `data/processed/regional_structure_2017.csv` | 2 | Shares of Biskra and El Oued in area, palms and production | Official |
 | `data/processed/yields_prices_2016_2017.csv` | 5 | Deglet Nour yield per palm and local price by wilaya | Official, as reported |
 | `data/processed/madr_2020_wilaya.csv` | 6 | Area, palms, production by variety and yield for the five main wilayas and the nation, 2020 (pre-2021 boundaries) | Official |
-| `data/processed/wilaya_official_benchmarks.csv` | 35 | Published statements on production, palm stock and area, national and by wilaya, with source links and boundary basis | Official statements |
+| `data/processed/wilaya_official_benchmarks.csv` | 39 | Published statements on production, palm stock and area, national and by wilaya, with source links and boundary basis | Official statements |
 | `data/processed/governance_wgi.csv` | 160 | Government effectiveness, regulatory quality, rule of law and control of corruption: Algeria, Egypt, Tunisia, Qatar, 2015-2024 | Official |
 | `data/processed/residue_coefficients.csv` | 10 | Residue coefficients from the literature and from the original workbook | Literature / unverified |
 | `data/processed/composition_conversion.csv` | 13 | Measured composition of residues and ethanol yields | Literature |
-| `data/processed/ai_date_grading_studies.csv` | 4 | Reported accuracy of date-grading models | Literature |
+| `data/processed/ai_date_grading_studies.csv` | 6 | Reported performance of date-grading models, with the metric named | Literature |
 | `data/processed/el_oued_residue_scenarios.csv` | 3 | Low, central and high residue scenarios for El Oued | Derived |
 | `data/processed/el_oued_sensitivity.csv` | 3 | One-at-a-time sensitivity of the central scenario | Derived |
 | `data/processed/panel_working_estimates.csv` | 60 | Ten wilayas by six years, flagged, with consistency columns | Unverified / projection |
@@ -62,6 +62,7 @@ and it must not be cited as observed data.
 | `data/processed/data_gaps.csv` | 17 | Seventeen variables the study needs but cannot yet obtain, with collection method, holder and priority | Inventory |
 | `data/processed/consistency_checks.json` | - | Output of the build-time checks | Check |
 | `data/raw/` | - | Original files, unchanged: the two working workbooks and the WGI extract | - |
+| `figures/fig3_framework.*` | - | Framework figure of the chapter (Fig. 3), PNG at 600 dpi, PDF and SVG | - |
 
 Column definitions are in `docs/DATA_DICTIONARY.md`. All changes made to the
 original files are listed in `docs/CORRECTIONS.md`.
@@ -89,15 +90,16 @@ original files are listed in `docs/CORRECTIONS.md`.
 python scripts/build_database.py   # rebuilds data/processed/ from data/raw/
 python scripts/validate.py         # integrity checks
 python scripts/build_appendix.py appendix   # appendix tables (Markdown, Excel)
+python scripts/draw_framework_figure.py     # Fig. 3 (needs matplotlib)
 ```
 
 Python 3.8 or later; the database scripts use the standard library only, the Excel output of the appendix needs openpyxl.
 
 ## How to cite
 
-Bousbia Laiche, R., & Belmessaoud, R. (2026). *Date-palm residue database for Saharan Algeria, 2015–2025 (corrected and documented)* (Version 1.5.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24327791
+Bousbia Laiche, R., & Belmessaoud, R. (2026). *Date-palm residue database for Saharan Algeria, 2015–2025 (corrected and documented)* (Version 1.5.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24327790
 
-DOI for all versions: https://doi.org/10.5281/zenodo.24327790. See also `CITATION.cff`.
+This DOI resolves to the latest version. Each version also has its own DOI on Zenodo (version 1.5.0: https://doi.org/10.5281/zenodo.24327791). See also `CITATION.cff`.
 
 ## Licence
 
