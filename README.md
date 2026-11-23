@@ -62,7 +62,7 @@ and it must not be cited as observed data.
 | `data/processed/data_gaps.csv` | 17 | Seventeen variables the study needs but cannot yet obtain, with collection method, holder and priority | Inventory |
 | `data/processed/consistency_checks.json` | - | Output of the build-time checks | Check |
 | `data/raw/` | - | Original files, unchanged: the two working workbooks and the WGI extract | - |
-| `figures/fig3_framework.*` | - | Framework figure of the chapter (Fig. 3), PNG at 600 dpi, PDF and SVG | - |
+| `figures/fig3_framework.*` | - | Framework figure of the chapter (Fig. 3): PNG and TIFF at 600 dpi, PDF and SVG | - |
 
 Column definitions are in `docs/DATA_DICTIONARY.md`. All changes made to the
 original files are listed in `docs/CORRECTIONS.md`.
